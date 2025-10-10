@@ -1,4 +1,4 @@
-var permute = function(nums) {
+// var permute = function(nums) {
 //     const result = [];
 // 	// - Base case
 //     if(nums.length === 1) {
