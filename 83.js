@@ -29,6 +29,8 @@ var deleteDuplicates = function(head) {
         }else{
             cur=cur.next
         }
+
+        
     }
     return head
 };
